@@ -22,7 +22,7 @@
             "help":{
                 "phone":{
                     "icon":"call",
-                    "text":"+971-545044605"
+                    "text":"+971 563044605"
                 },
                 "mail":{
                     "icon":"mail",
@@ -147,7 +147,7 @@
                 "title":"Contact Us",
                 "body":"Nextwave Commercial Brokers,#312 Al Mazaya Business Centre Al Qusais, Dubai ",
                 "email":"hello@example.com",
-                "phone":"+971-545044605"
+                "phone":"+971 563044605"
             },
             "quickLinks":[  
             { "text": "About Us", "value": "AboutUsRef" },
