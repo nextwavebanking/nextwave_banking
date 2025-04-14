@@ -1,0 +1,171 @@
+{
+    "section":{
+        "About":{
+            "eyebrow":"About us",
+            "title":{
+                "text1":"Your",
+                "highlight":"Trusted Partner ",
+                "text2":"in Business & Financial Success"
+            },
+            "body":["At Nextwave , we specialize in providing banking, corporate finance, business loans, trade facilities, and personal financial solutions to help businesses and individuals thrive. With a strong network of banking partners and financial institutions, we ensure seamless account opening, loan approvals, and tailored financial strategies to meet your unique needs.",
+                    " Our expertise in business and personal finance allows us to simplify complex financial processes, making it easier for you to focus on growth and success. Whether you're a startup, an established business, or an individual seeking financial support, Nextwave is your trusted partner in financial solutions."
+                ]
+        },
+        "ContactUs":{
+            "eyebrow":"Contact us",
+            "title":{
+                "text1":"How can we ",
+                "highlight":"help",
+                "text2":"?"
+            },
+            "body":"We'd love to hear from you! Whether you have a question, need assistance, or are ready to get started with your business journey, our team is here to help.",
+            "help":{
+                "phone":{
+                    "icon":"call",
+                    "text":"+971-545044605"
+                },
+                "mail":{
+                    "icon":"mail",
+                    "text":"hello@nextwave.com"
+                },
+                "fare":{
+                    "icon":"corporate_fare",
+                    "text":"Nextwave Commercial Brokers, Dubai, United Arab Emirates"
+                }
+            }
+        },
+        "HeroSection":{
+            "eyebrow":"Business Setup | Banking | Finance | Investments",
+            "title":{
+                "highlight":"Empowering",
+                "text2":" Your Business with Smarter Financial Solutions"
+            }
+        },
+        "HowItWorks":{
+            "eyebrow":"how it works",
+            "title":{
+                "text1":"How We Help You ",
+                "highlight":"Succeed"
+            },
+            "cards":[{
+                "iconName": "emoji_objects",
+                "header": "Choose Your Financial Solution",
+                "body": ["Identify your needs, whether it’s business banking, corporate finance, loans, trade facilities, or personal financial solutions like credit cards and salary accounts."]
+            },
+            {
+                "iconName": "verified",
+                "header": "Apply & Get Approved",
+                "body": ["Our experts assist with documentation, approvals, and seamless processing to ensure fast and hassle-free transactions."]
+            },
+            {
+                "iconName": "trending_up",
+                "header": "Secure & Grow Your Finances",
+                "body": ["Once approved, you can access funds, manage accounts, and optimize financial resources to expand your business or meet personal financial goals."]
+            }]
+            
+        },
+        "OurServices":{
+            "eyebrow":"Our Services",
+            "title":{
+                "text1":"Tailored for Your ",
+                "highlight":"Business Success"
+            },
+            "body":"At Nextwave Commercial Brokers, we provide expert business setup, banking, and financial solutions to help you succeed in the UAE. From company formation to corporate finance and compliance, we make the process seamless and stress-free.",
+            "Services":[
+                {
+                    "header": "Banking & Financial Services",
+                    "body": "At Nextwave Commercial Brokers, we offer a full range of banking solutions to help businesses and individuals manage their financial needs with ease and efficiency. From opening business accounts to personalized salary accounts, we provide seamless banking experiences.",
+                    "list": [
+                        { "icon": "account_balance", "text": "Banking Services" },
+                        { "icon": "business_center", "text": "Business Loans" },
+                        { "icon": "credit_card", "text": "Salary Accounts" }
+                    ]
+                },
+                {
+                    "header": "Corporate Finance & Business Solutions",
+                    "body": "Our expert team provides corporate finance solutions tailored to your business needs. Whether it’s securing loans, optimizing trade finance, or driving growth strategies, we are here to ensure your business stays on track financially.",
+                    "list": [
+                        { "icon": "analytics", "text" : "Corporate Finance" },
+                        { "icon": "credit_card", "text" : "Business Loans" },
+                        { "icon": "public", "text" : "Trade Facilities" }
+                    ]
+                },
+                {
+                    "header": "Personal Financial Solutions",
+                    "body": "We offer personalized financial solutions for individuals. From personal loans to credit cards, our goal is to help you manage your finances effectively and meet your personal goals with the right financial tools.",
+                    "list": [
+                        { "icon": "house", "text" :  "Personal Loans" },
+                        { "icon": "credit_card", "text" : "Credit Cards" }
+                    ]
+                },
+                {
+                    "header": "Real Estate & Mortgage Services",
+                    "body": "Looking to invest in property? Our mortgage finance services provide the financial assistance you need for both commercial and residential investments, ensuring smooth transactions and great financing options.",
+                    "list": [
+                        { "icon": "house",  "text": "Mortgage Finance"}
+                    ]
+            }
+            ]
+        },
+        "WhyChooseUs":{
+            "eyebrow":"Why Choose Us",
+            "title":{
+                "text1":"Why ",
+                "highlight":"nextwave. ",
+                "text2":"is The Right Choice for you"
+            },
+            "cards":[  {
+                "iconName": "account_balance",
+                "header": "Comprehensive Solutions",
+                "body": ["Lorem ipsum dolor sit amet consectetur. Ut massa ut aliquam."]
+            },
+            {
+                "iconName": "trending_up",
+                "header": "Tailored Strategies",
+                "body": [" Every business is unique, so we offer customized financial planning, corporate banking solutions, and business expansion support."]
+            },
+            {
+                "iconName": "handshake",
+                "header": "Strong Partnerships",
+                "body": ["We collaborate with top UAE banks, financial institutions, investment firms, and regulatory bodies to secure the best opportunities."]
+            },
+            {
+                "iconName": "checklist",
+                "header": "Hassle-Free Process",
+                "body": ["From documentation and approvals to legal formalities, we streamline every step to ensure quick, efficient, and smooth operations."]
+            }],
+            "specialcard":{
+                "iconName": "person_search",
+                "header": "Expert Guidance ",
+                "body": ["Our specialists provide personalized financial strategies, legal compliance support, risk assessment, and corporate structuring to help businesses operate efficiently.",
+                        " We ensure that your financial and corporate decisions align with UAE regulations and industry best practices."
+                    ]
+            }
+        },
+        "Footer":{
+            "contactUs":{
+                "title":"Contact Us",
+                "body":"Nextwave Commercial Brokers,#312 Al Mazaya Business Centre Al Qusais, Dubai ",
+                "email":"hello@example.com",
+                "phone":"+971-545044605"
+            },
+            "quickLinks":[  
+            { "text": "About Us", "value": "AboutUsRef" },
+            { "text": "Services", "value": "ServiceRef" },
+            { "text": "Process", "value": "HowItWorksRef" },
+            { "text": "Contact Us", "value": "ContactUsRef" }
+            ],
+            "services" :[
+                "Banking Services",
+                "Business Accountpening",
+                "Corporate Finance",
+                "Business Loans",
+                "Trade Facilities",
+                "Mortgage Finance",
+                "Personal Loans",
+                "Credit Cards",
+                "Salary Accounts"
+            ] 
+        }
+    }
+}

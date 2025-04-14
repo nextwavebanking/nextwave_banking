@@ -1,0 +1,31 @@
+/* 02 Semantic - Mode 1 */
+
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Manrope');
+/* 02 Semantic - Mode 1 */
+:root {
+  --fonts-family-primary: Manrope;
+  /* --fonts-family-secondary: Aeonik TRIAL; */
+  --color-primary-100: var(--colors-blue-100);
+  --color-secondary-lightest: var(--colors-neutral-0);
+  --color-primary-200: var(--colors-blue-200);
+  --color-secondary-light: var(--colors-neutral-50);
+  --color-secondary-lighter: var(--colors-neutral-100);
+  --color-primary-300: var(--colors-blue-300);
+  --color-primary-400: var(--colors-blue-400);
+  --color-secondary-soft-light: var(--colors-neutral-200);
+  --color-secondary-medium-light: var(--colors-neutral-300);
+  --color-primary-500: var(--colors-blue-500);
+  --color-primary-600: var(--colors-blue-600);
+  --color-secondary-neutral: var(--colors-neutral-400);
+  --color-secondary-medium-dark: var(--colors-neutral-500);
+  --color-primary-700: var(--colors-blue-700);
+  --color-primary-800: var(--colors-blue-800);
+  --color-secondary-dark: var(--colors-neutral-600);
+  --color-secondary-darker: var(--colors-neutral-700);
+  --color-primary-900: var(--colors-blue-900);
+  --color-primary-1000: var(--colors-blue-1000);
+  --color-secondary-very-dark: var(--colors-neutral-800);
+  --color-secondary-darkest: var(--colors-neutral-900);
+  --color-secondary-deepest: var(--colors-neutral-1000);
+}
