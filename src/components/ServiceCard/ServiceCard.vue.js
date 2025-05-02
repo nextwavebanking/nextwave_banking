@@ -15,7 +15,7 @@ __VLS_asFunctionalElement(__VLS_intrinsicElements.span, __VLS_intrinsicElements.
 __VLS_asFunctionalElement(__VLS_intrinsicElements.div, __VLS_intrinsicElements.div)(Object.assign({ class: "list flex flex-col" }));
 for (const [item] of __VLS_getVForSourceType((__VLS_ctx.list))) {
     __VLS_asFunctionalElement(__VLS_intrinsicElements.div, __VLS_intrinsicElements.div)(Object.assign({ class: "item flex flex-row items-center" }));
-    __VLS_asFunctionalElement(__VLS_intrinsicElements.span, __VLS_intrinsicElements.span)(Object.assign({ class: "material-symbols-outlined text-xs h-[16px] icon" }));
+    __VLS_asFunctionalElement(__VLS_intrinsicElements.span, __VLS_intrinsicElements.span)(Object.assign({ class: "material-symbols-outlined text-xs h-[16px] w-[16px] text-[16px] icon" }));
     (item.icon);
     __VLS_asFunctionalElement(__VLS_intrinsicElements.span, __VLS_intrinsicElements.span)(Object.assign({ class: "body-lg-medium" }));
     (item.text);
@@ -47,6 +47,8 @@ for (const [item] of __VLS_getVForSourceType((__VLS_ctx.list))) {
 /** @type {__VLS_StyleScopedClasses['material-symbols-outlined']} */ ;
 /** @type {__VLS_StyleScopedClasses['text-xs']} */ ;
 /** @type {__VLS_StyleScopedClasses['h-[16px]']} */ ;
+/** @type {__VLS_StyleScopedClasses['w-[16px]']} */ ;
+/** @type {__VLS_StyleScopedClasses['text-[16px]']} */ ;
 /** @type {__VLS_StyleScopedClasses['icon']} */ ;
 /** @type {__VLS_StyleScopedClasses['body-lg-medium']} */ ;
 var __VLS_dollars;

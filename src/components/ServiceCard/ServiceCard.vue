@@ -6,7 +6,7 @@
       <div class="list flex flex-col">
         <template v-for="item in list">
           <div class="item flex flex-row items-center">
-            <span class="material-symbols-outlined text-xs h-[16px] icon">
+            <span class="material-symbols-outlined text-xs h-[16px] w-[16px] text-[16px] icon">
               {{ item.icon }}
             </span>
             <span class="body-lg-medium">{{ item.text }}</span>

@@ -26,7 +26,7 @@
                 },
                 "mail":{
                     "icon":"mail",
-                    "text":"hello@nextwave.com"
+                    "text":"abhi@nextwavebanking.com"
                 },
                 "fare":{
                     "icon":"corporate_fare",
@@ -78,7 +78,9 @@
                     "list": [
                         { "icon": "account_balance", "text": "Banking Services" },
                         { "icon": "business_center", "text": "Business Loans" },
-                        { "icon": "credit_card", "text": "Salary Accounts" }
+                        { "icon": "credit_card", "text": "Salary Accounts" },
+                        { "icon": "globe", "text": "Offshore Accounts " }
+                        
                     ]
                 },
                 {
@@ -87,7 +89,8 @@
                     "list": [
                         { "icon": "analytics", "text" : "Corporate Finance" },
                         { "icon": "credit_card", "text" : "Business Loans" },
-                        { "icon": "public", "text" : "Trade Facilities" }
+                        { "icon": "public", "text" : "Trade Facilities" },
+                        { "icon": "monitor", "text" : "PoS Machines" }
                     ]
                 },
                 {
@@ -95,7 +98,8 @@
                     "body": "We offer personalized financial solutions for individuals. From personal loans to credit cards, our goal is to help you manage your finances effectively and meet your personal goals with the right financial tools.",
                     "list": [
                         { "icon": "house", "text" :  "Personal Loans" },
-                        { "icon": "credit_card", "text" : "Credit Cards" }
+                        { "icon": "credit_card", "text" : "Credit Cards" },
+                        { "icon": "receipt_long", "text" : "Loan and Credit Card Settlements" }
                     ]
                 },
                 {
@@ -146,7 +150,7 @@
             "contactUs":{
                 "title":"Contact Us",
                 "body":"Nextwave Commercial Brokers,#312 Al Mazaya Business Centre Al Qusais, Dubai ",
-                "email":"hello@example.com",
+                "email":"abhi@nextwavebanking.com",
                 "phone":"+971 563044605"
             },
             "quickLinks":[  
