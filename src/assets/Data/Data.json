@@ -77,7 +77,7 @@
                     "body": "At Nextwave Commercial Brokers, we offer a full range of banking solutions to help businesses and individuals manage their financial needs with ease and efficiency. From opening business accounts to personalized salary accounts, we provide seamless banking experiences.",
                     "list": [
                         { "icon": "account_balance", "text": "Banking Services" },
-                        { "icon": "business_center", "text": "Business Loans" },
+                        { "icon": "business_center", "text": "Business Accounts" },
                         { "icon": "credit_card", "text": "Salary Accounts" },
                         { "icon": "globe", "text": "Offshore Accounts " }
                         
